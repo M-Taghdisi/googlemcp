@@ -78,4 +78,13 @@ This project is licensed under the Apache 2.0 License \- see the [LICENSE](https
 
 This is not an officially supported Google product. This project is intended for demonstration purposes only.
 
-This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security).  
+This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security).
+
+## Canonical owner and contact
+
+<!-- minitz-owner-contact:start -->
+- Project maintainer: Mahdi Taghdisi Neghab
+- GitHub account: [M-Taghdisi](https://github.com/M-Taghdisi)
+- Organization: [MiniTZ-OS-ORG](https://github.com/MiniTZ-OS-ORG)
+- Email: [mahdi.taghdisi96@gmail.com](mailto:mahdi.taghdisi96@gmail.com), [mahdi.taghdisi@icloud.com](mailto:mahdi.taghdisi@icloud.com), [solo@taghdisilabs.digital](mailto:solo@taghdisilabs.digital)
+<!-- minitz-owner-contact:end -->
